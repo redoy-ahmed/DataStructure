@@ -1,3 +1,5 @@
+package com.redoy.ds;
+
 import java.util.Stack;
 
 public class QueueUsingStack {
